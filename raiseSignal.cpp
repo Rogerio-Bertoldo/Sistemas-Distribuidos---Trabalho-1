@@ -7,7 +7,7 @@
 #include<string>
 #include<sstream>
 #include<signal.h>
-//#include<unistd.h>
+#include<unistd.h>
 
 using namespace std;
 const string sinais[] = {"SIGINT", "SIGABRT", "SIGTERM"};

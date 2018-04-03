@@ -1,3 +1,8 @@
+/*
+	Autor: Rogerio Henrique Bertoldo da Silva
+	[uso]: g++ --std=c++11 -Pipes.cpp -o Pipes
+*/
+
 #include<iostream>
 #include<string>
 #include<sstream>

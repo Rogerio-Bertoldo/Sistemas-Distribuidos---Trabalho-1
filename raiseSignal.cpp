@@ -1,6 +1,6 @@
 /*
 	Autor: Rogerio Henrique Bertoldo da Silva
-	[uso]: g++ --std=c++11 -Pipes.cpp -o Pipes
+	[uso]: g++ --std=c++11 raiseSignal.cpp -o raiseSignal
 */
 
 #include<iostream>

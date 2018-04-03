@@ -1,6 +1,6 @@
 /*
 	Autor: Rogerio Henrique Bertoldo da Silva
-	[uso]: g++ --std=c++11 -signalHandler.cpp -o signalHandler
+	[uso]: g++ --std=c++11 signalHandler.cpp -o signalHandler
 */
 
 #include<iostream>
